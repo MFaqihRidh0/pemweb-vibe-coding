@@ -5,6 +5,10 @@
 
 ## Pengerjaan
 
+### Website Introduction
+
+Website Inventaris ITS Bersama adalah website yang dikembangkan untuk menginformasikan barang-barang yang ada pada organisasi,komunitas,ataupun UKM yang ada di ITS untuk dijual , dipinjanm atau dihibahkan. Mahasiswa ITS dapat dengan mudah menemukan barang bekas yang diinginkan dengan mencari pada website ini. Barang-barang yang tersedia bisa diedit oleh organisasi,komunitas, dan UKM itu sendiri agar memiliki fleksibilitas memperbarui keadaan barang. Adanya website ini diharapkan dapat mempermudah mahasiswa dalam pencarian barang bekas yang diinginkan sebelum ke platform jual beli online yang lain karena barang-barang yang disediakan bisa lebih murah dan lebih terpercaya karena dari ITS sendiri
+
 ### Hal Yang Perlu di Perhatikan 
 
 
